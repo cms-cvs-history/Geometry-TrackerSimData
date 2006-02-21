@@ -94,8 +94,8 @@
       <File name="Geometry/MTCCTrackerCommonData/data/tracker_mtcc.xml"              url="."/>
       <File name="Geometry/MTCCTrackerCommonData/data/trackerConfiguration_mtcc.xml" url="."/>
       <File name="Geometry/MTCCTrackerCommonData/data/trackerStructureTopology_mtcc.xml" url= "."/>
-      <File name="Geometry/TrackerSimData/data/trackersens.xml"                      url="."/>   
-      <File name="Geometry/TrackerSimData/data/trackerProdCuts.xml"                  url="."/>   
+      <File name="Geometry/TrackerSimData/data/trackersens_mtcc.xml"                      url="."/>   
+      <File name="Geometry/TrackerSimData/data/trackerProdCuts_mtcc.xml"                  url="."/>   
 									        
  </Include>								        
  <Root fileName="cms.xml"          logicalPartName="OCMS"/>		        
