@@ -21,6 +21,8 @@
       <File name="Geometry/TrackerCommonData/data/pixbarladderhalf.xml"	        url="."/>
       <File name="Geometry/TrackerCommonData/data/pixbarConfiguration.xml"	url="."/>
       <File name="Geometry/TrackerCommonData/data/pixfwdMaterials.xml"          url="."/>
+      <File name="Geometry/TrackerCommonData/data/pixfwdCommon.xml"             url="."/>
+      <File name="Geometry/TrackerCommonData/data/pixfwdNipple.xml"             url="."/>
       <File name="Geometry/TrackerCommonData/data/pixfwdplaq.xml"               url="."/>
       <File name="Geometry/TrackerCommonData/data/pixfwdplaq1x2Right.xml"       url="."/>
       <File name="Geometry/TrackerCommonData/data/pixfwdplaq1x2Left.xml"        url="."/>
@@ -34,8 +36,6 @@
       <File name="Geometry/TrackerCommonData/data/pixfwdBlade.xml"              url="."/>
       <File name="Geometry/TrackerCommonData/data/pixfwdDisk.xml"               url="."/>
       <File name="Geometry/TrackerCommonData/data/pixfwdCylinder.xml"           url="."/>
-      <File name="Geometry/TrackerCommonData/data/pixfwdCommon.xml"             url="."/>
-      <File name="Geometry/TrackerCommonData/data/pixfwdNipple.xml"             url="."/>
       <File name="Geometry/TrackerCommonData/data/pixfwd.xml"                   url="."/>
       <File name="Geometry/TrackerCommonData/data/tracker.xml"		        url="."/>
       <File name="Geometry/TrackerCommonData/data/trackermaterial.xml"	        url="."/>
