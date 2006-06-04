@@ -36,7 +36,6 @@ es_source = XMLIdealGeometryESSource
       "Geometry/MTCCTrackerCommonData/data/tiblayer1_mtcc.xml",
       "Geometry/MTCCTrackerCommonData/data/tiblayer2_mtcc.xml",
       "Geometry/MTCCTrackerCommonData/data/tib_mtcc.xml",
-      "Geometry/MTCCTrackerCommonData/data/tibConfiguration_mtcc.xml",
       "Geometry/TrackerCommonData/data/tobmaterial.xml",
       "Geometry/TrackerCommonData/data/tobmodpar.xml",
       "Geometry/TrackerCommonData/data/tobmodule0.xml",
@@ -62,7 +61,6 @@ es_source = XMLIdealGeometryESSource
       "Geometry/TrackerCommonData/data/tobrod4l.xml",
       "Geometry/MTCCTrackerCommonData/data/tobrod4_mtcc.xml",
       "Geometry/MTCCTrackerCommonData/data/tob_mtcc.xml",
-      "Geometry/MTCCTrackerCommonData/data/tobConfiguration_mtcc.xml",
       "Geometry/TrackerCommonData/data/tecmaterial.xml",
       "Geometry/TrackerCommonData/data/tecmodpar.xml",
       "Geometry/TrackerCommonData/data/tecmodule3.xml",
@@ -91,16 +89,14 @@ es_source = XMLIdealGeometryESSource
       "Geometry/MTCCTrackerCommonData/data/tecwheeld_mtcc.xml",
       "Geometry/MTCCTrackerCommonData/data/tecsupport_mtcc.xml",
       "Geometry/MTCCTrackerCommonData/data/tec_mtcc.xml",
-      "Geometry/MTCCTrackerCommonData/data/tecConfiguration_mtcc.xml",
       "Geometry/TrackerCommonData/data/trackermaterial.xml",
       "Geometry/TrackerCommonData/data/cms.xml",
       "Geometry/MTCCTrackerCommonData/data/tracker_mtcc.xml",
-      "Geometry/MTCCTrackerCommonData/data/trackerConfiguration_mtcc.xml",
-      "Geometry/MTCCTrackerCommonData/data/trackerStructureTopology_mtcc.xml"    url= "."/>
+      "Geometry/MTCCTrackerCommonData/data/trackerStructureTopology_mtcc.xml",   
       "Geometry/TrackerSimData/data/trackersens_mtcc.xml",   
       "Geometry/TrackerSimData/data/trackerProdCuts_mtcc.xml",   
-
-      "SimG4Core/MagneticField/FieldParameters.xml",
+      "SimG4Core/MagneticField/FieldParameters.xml"
+     }
 
    string rootNodeName = "cms:OCMS"
 }
