@@ -91,7 +91,7 @@ es_source = XMLIdealGeometryESSource
       "Geometry/MTCCTrackerCommonData/data/tec_mtcc.xml",
       "Geometry/TrackerCommonData/data/trackermaterial.xml",
       "Geometry/TrackerCommonData/data/cms.xml",
-      "Geometry/MTCCTrackerCommonData/data/tracker_mtcc.xml",
+      "Geometry/MTCCTrackerCommonData/data/tracker.xml",
       "Geometry/MTCCTrackerCommonData/data/trackerStructureTopology_mtcc.xml",   
       "Geometry/TrackerSimData/data/trackersens_mtcc.xml",   
       "Geometry/TrackerSimData/data/trackerProdCuts_mtcc.xml",   
