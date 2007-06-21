@@ -15,6 +15,7 @@ es_source = XMLIdealGeometryESSource
       # "Geometry/CMSCommonData/data/cavern.xml",
       "Geometry/CMSCommonData/data/materials.xml",  
       "Geometry/CMSCommonData/data/rotations.xml",
+      "Geometry/TrackerCommonData/data/tibtidcommonmaterial.xml",
       "Geometry/TrackerCommonData/data/tibmaterial.xml",
       "Geometry/TrackerCommonData/data/tibmodpar.xml",
       "Geometry/TrackerCommonData/data/tibmodule0.xml",

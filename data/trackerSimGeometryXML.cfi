@@ -39,6 +39,7 @@ es_source = XMLIdealGeometryESSource
       "Geometry/TrackerCommonData/data/pixfwdDisk.xml",
       "Geometry/TrackerCommonData/data/pixfwdCylinder.xml",
       "Geometry/TrackerCommonData/data/pixfwd.xml",
+      "Geometry/TrackerCommonData/data/tibtidcommonmaterial.xml",
       "Geometry/TrackerCommonData/data/tibmaterial.xml",
       "Geometry/TrackerCommonData/data/tibmodpar.xml",
       "Geometry/TrackerCommonData/data/tibmodule0.xml",

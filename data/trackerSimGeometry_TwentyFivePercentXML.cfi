@@ -49,6 +49,7 @@ es_source = XMLIdealGeometryESSource
 	"Geometry/TrackerCommonData/data/tibmodule0a.xml",
 	"Geometry/TrackerCommonData/data/tibmodpar.xml",
 	"Geometry/TrackerCommonData/data/tibmaterial.xml",
+        "Geometry/TrackerCommonData/data/tibtidcommonmaterial.xml",
 	"Geometry/TrackerCommonData/data/tiblayerpar.xml",
 	"Geometry/TwentyFivePercentTrackerCommonData/data/tiblayer3_twentyfivepercent.xml",
 	"Geometry/TwentyFivePercentTrackerCommonData/data/tiblayer2_twentyfivepercent.xml",
